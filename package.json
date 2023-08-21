@@ -1,0 +1,22 @@
+{
+  "name": "newnpm",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArjaSaiRakesh/npm.git"
+  },
+  "keywords": [
+    "n"
+  ],
+  "author": "rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArjaSaiRakesh/npm/issues"
+  },
+  "homepage": "https://github.com/ArjaSaiRakesh/npm#readme"
+}
